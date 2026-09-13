@@ -1,0 +1,7 @@
+{
+  "name": "Mauro Bot Bac Bo",
+  "description": "Robô de sinais Bac Bo Live com leitura da API em tempo real, painel administrativo seguro, estratégias personalizadas, gale 1 e casas de apostas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
